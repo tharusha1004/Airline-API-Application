@@ -1,0 +1,14 @@
+.myfont {
+    font-family: 'Poppins', sans-serif;
+}
+
+.myfont2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer {
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+}
